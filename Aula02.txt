@@ -1,0 +1,22 @@
+a programação orientada a objetos pode representar qualquer coisa do mundo real
+
+pra cada tipo - uma classe nova é criada
+
+variaveis - características (ATRIBUTOS) no maior escopo da classe
+
+
+o metodo main só fica em uma unica classe (a principal, "classe de tela")
+
+uma nova classe se torna um novo TIPO, outras variaveis podem ser declaradas com esse tipo
+
+cada nova classe tem no maximo 3 coisas: Atributos, metodos (ações, algoritmos) e construtores (inicialização dos atributos)
+
+objeto: uma variavel que não é de tipo primitivo.
+
+classe é a estrutura (molde). Objeto armazena valores. O objeto que vai ficar na memoria. Classe apenas diz que todo objeto tem seus atribu
+
+instanciar : chamar o "new" no java. Inicializar o objeto alocando memoria RAM (new). Pode ser feito na mesma linha ou em linhas separadas.
+
+null pointer exception - ERRO INDICANDO QUE NÃO TEM ESPAÇO NA MEMORIA RAM ALOCADO. FALTA O NEW
+
+para alocar informações nos atibutos, colocar NOMEDOOBJETO.VARIAVEL = informação.
